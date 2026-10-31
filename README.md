@@ -56,6 +56,11 @@ Customer churn directly impacts business revenue and lifetime value (LTV). This 
 
 </div>
 
+
+
+https://github.com/user-attachments/assets/8b5f0830-efb8-47e4-bab9-008f8ac772c8
+
+
 ---
 
 ## 🚀 Technical Architecture
